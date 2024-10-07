@@ -1,6 +1,10 @@
 class MyClass{
 
-    public Integer hola(){
+    public Integer getInteger(){
+        return 0;
+    }
+
+    public Integer newFunction(){
         return 0;
     }
 
