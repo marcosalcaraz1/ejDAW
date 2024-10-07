@@ -8,4 +8,8 @@ class MyClass{
         return 0;
     }
 
+    public String newString(){
+        return String
+    }
+
 }
